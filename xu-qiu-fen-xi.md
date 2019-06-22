@@ -8,7 +8,7 @@
   * 准确的回答 "系统必须做什么?"
 * **借助于`当前系统的逻辑模型`导出`目标系统的逻辑模型`,解决目标系统的"`做什么`"的问题.**
 
-![&#x7CFB;&#x7EDF;&#x903B;&#x8F91;&#x6A21;&#x578B;&#x5230;&#x76EE;&#x6807;&#x7CFB;&#x7EDF;&#x903B;&#x8F91;&#x6A21;&#x578B;](.gitbook/assets/image%20%2838%29.png)
+![&#x7CFB;&#x7EDF;&#x903B;&#x8F91;&#x6A21;&#x578B;&#x5230;&#x76EE;&#x6807;&#x7CFB;&#x7EDF;&#x903B;&#x8F91;&#x6A21;&#x578B;](.gitbook/assets/image%20%2839%29.png)
 
 ###    需求工程中存在的困难
 
@@ -59,7 +59,7 @@
   * **`预先估计以后系统可能达到的目标;`**
 * **建立分析所需要的通信途径, 以保证能顺利的对问题进行分析.**
 
-![&#x7528;&#x6237;,&#x5206;&#x6790;,&#x7BA1;&#x7406;,&#x5F00;&#x53D1;  &#x5404;&#x4E2A;&#x4EBA;&#x5458;&#x95F4;&#x7684;&#x5173;&#x7CFB;](.gitbook/assets/image%20%2837%29.png)
+![&#x7528;&#x6237;,&#x5206;&#x6790;,&#x7BA1;&#x7406;,&#x5F00;&#x53D1;  &#x5404;&#x4E2A;&#x4EBA;&#x5458;&#x95F4;&#x7684;&#x5173;&#x7CFB;](.gitbook/assets/image%20%2838%29.png)
 
 ### 分析与综合
 
@@ -137,9 +137,9 @@
 
 ![&#x6570;&#x636E;&#x6D41;&#x4E0E;&#x6570;&#x636E;&#x52A0;&#x5DE5;&#x4E4B;&#x95F4;&#x7684;&#x5173;&#x7CFB;](.gitbook/assets/image%20%2813%29.png)
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
-![&#x9010;&#x5C42;&#x5206;&#x6790;&#x65B9;&#x6CD5;](.gitbook/assets/image%20%2842%29.png)
+![&#x9010;&#x5C42;&#x5206;&#x6790;&#x65B9;&#x6CD5;](.gitbook/assets/image%20%2844%29.png)
 
 ### 数据流图绘制步骤
 
@@ -161,11 +161,11 @@
 
 * **细化每一个加工框** - **`销售细化`**
 
-![&#x9500;&#x552E;&#x7EC6;&#x5316;](.gitbook/assets/image%20%2834%29.png)
+![&#x9500;&#x552E;&#x7EC6;&#x5316;](.gitbook/assets/image%20%2835%29.png)
 
 * **细化每一个加工框 - `采购细化`**
 
-![&#x91C7;&#x8D2D;&#x7EC6;&#x5316;](.gitbook/assets/image%20%2824%29.png)
+![&#x91C7;&#x8D2D;&#x7EC6;&#x5316;](.gitbook/assets/image%20%2825%29.png)
 
 ### 检查和修改数据流图
 
@@ -237,7 +237,7 @@
 
 ### **数据字典的内容 -- 数据词典 数据结构 的描述**
 
-![&#x6570;&#x636E;&#x7ED3;&#x6784;&#x7684;&#x63CF;&#x8FF0;](.gitbook/assets/image%20%2830%29.png)
+![&#x6570;&#x636E;&#x7ED3;&#x6784;&#x7684;&#x63CF;&#x8FF0;](.gitbook/assets/image%20%2831%29.png)
 
 ![&#x4E00;&#x4E2A;&#x63CF;&#x8FF0;&#x6848;&#x4F8B;](.gitbook/assets/image%20%2822%29.png)
 
@@ -284,7 +284,7 @@
 
 ![&#x6761;&#x4EF6;&#x548C;&#x52A8;&#x4F5C;&#x7684;&#x89C4;&#x5219; &#x4EE5;&#x53CA;&#x5173;&#x7CFB;](.gitbook/assets/image%20%282%29.png)
 
-![&#x793A;&#x4F8B;](.gitbook/assets/image%20%2833%29.png)
+![&#x793A;&#x4F8B;](.gitbook/assets/image%20%2834%29.png)
 
 #### \(3\)判定树
 
@@ -303,7 +303,7 @@
 
 **Warnier 图也用树形结构描绘信息,  且更丰富, 能表达逻辑关系.**
 
-![&#x793A;&#x4F8B;](.gitbook/assets/image%20%2835%29.png)
+![&#x793A;&#x4F8B;](.gitbook/assets/image%20%2836%29.png)
 
 #### \(6\)IPO 图 \(输出,处理,输出\)
 
