@@ -72,7 +72,7 @@
 
 #### 软件规模越来越大
 
-![](.gitbook/assets/image%20%28115%29.png)
+![](.gitbook/assets/image%20%28116%29.png)
 
 ![](.gitbook/assets/image%20%2852%29.png)
 
@@ -156,7 +156,7 @@
 
 ## 软件工程知识体系与职业道德
 
-![&#x5341;&#x4E2A;&#x77E5;&#x8BC6;&#x57DF;, &#x5206;&#x4E3A;&#x4E24;&#x7C7B;&#x8FC7;&#x7A0B;\(&#x5F00;&#x53D1;&#x548C;&#x7EF4;&#x62A4;&#x8FC7;&#x7A0B;, &#x652F;&#x6301;&#x548C;&#x7EC4;&#x7EC7;&#x8FC7;&#x7A0B;\)](.gitbook/assets/image%20%28124%29.png)
+![&#x5341;&#x4E2A;&#x77E5;&#x8BC6;&#x57DF;, &#x5206;&#x4E3A;&#x4E24;&#x7C7B;&#x8FC7;&#x7A0B;\(&#x5F00;&#x53D1;&#x548C;&#x7EF4;&#x62A4;&#x8FC7;&#x7A0B;, &#x652F;&#x6301;&#x548C;&#x7EC4;&#x7EC7;&#x8FC7;&#x7A0B;\)](.gitbook/assets/image%20%28125%29.png)
 
 ### 软件工程知识体系各主体之间的关联
 
@@ -164,7 +164,7 @@
 
 ### 软件工程是一门交叉学科
 
-![](.gitbook/assets/image%20%28129%29.png)
+![](.gitbook/assets/image%20%28130%29.png)
 
 ### **软件工程与计算机科学的区别**
 
@@ -182,7 +182,7 @@
 
 ### **软件工程职业道德和责任规范**
 
-![](.gitbook/assets/image%20%28133%29.png)
+![](.gitbook/assets/image%20%28134%29.png)
 
 \*\*\*\*
 

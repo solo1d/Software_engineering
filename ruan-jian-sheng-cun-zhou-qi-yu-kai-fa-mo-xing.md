@@ -153,7 +153,7 @@ description: 主要是可行性研究
 
 
 
-![&#x5178;&#x578B;&#x73AF;&#x5883;&#x4E0B;&#x5404;&#x4E2A;&#x5F00;&#x53D1;&#x9636;&#x6BB5;&#x4F7F;&#x7528;&#x4EBA;&#x529B;&#x767E;&#x5206;&#x6BD4;](.gitbook/assets/image%20%28113%29.png)
+![&#x5178;&#x578B;&#x73AF;&#x5883;&#x4E0B;&#x5404;&#x4E2A;&#x5F00;&#x53D1;&#x9636;&#x6BB5;&#x4F7F;&#x7528;&#x4EBA;&#x529B;&#x767E;&#x5206;&#x6BD4;](.gitbook/assets/image%20%28114%29.png)
 
 #### 自动估计成本技术
 

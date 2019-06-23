@@ -231,7 +231,7 @@
 
 ![](.gitbook/assets/image%20%2860%29.png)
 
-![](.gitbook/assets/image%20%28138%29.png)
+![](.gitbook/assets/image%20%28139%29.png)
 
 ![](.gitbook/assets/image%20%2868%29.png)
 
@@ -259,7 +259,7 @@
 
 **在层次图内,  使用  `方框表示模块 , 连线表示模块与模块之间的相互关系.`**
 
-![](.gitbook/assets/image%20%28122%29.png)
+![](.gitbook/assets/image%20%28123%29.png)
 
 ### 二. HIPO 图
 
@@ -273,7 +273,7 @@
 * **`方框之间的箭头表示模块的调用关系;`**
 * **`尾端`带有`空心圆`的`短箭头`表示`数据信息`, `尾端`带有`实心圆`的`短箭头`表示`控制信息.`**
 
-![&#x4EA7;&#x751F;&#x6700;&#x4F73;&#x89E3;&#x7684;&#x4E00;&#x822C;&#x7ED3;&#x6784;](.gitbook/assets/image%20%28136%29.png)
+![&#x4EA7;&#x751F;&#x6700;&#x4F73;&#x89E3;&#x7684;&#x4E00;&#x822C;&#x7ED3;&#x6784;](.gitbook/assets/image%20%28137%29.png)
 
 ## 面向数据流的设计方法
 
@@ -302,7 +302,7 @@
 
 ### 3. 设计过程
 
-![](.gitbook/assets/image%20%28135%29.png)
+![](.gitbook/assets/image%20%28136%29.png)
 
 ### 二. 变换分析
 
@@ -338,9 +338,9 @@
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-![](.gitbook/assets/image%20%28118%29.png)
+![](.gitbook/assets/image%20%28119%29.png)
 
-![](.gitbook/assets/image%20%28132%29.png)
+![](.gitbook/assets/image%20%28133%29.png)
 
 ![](.gitbook/assets/image%20%2890%29.png)
 
