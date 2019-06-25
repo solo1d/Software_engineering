@@ -68,13 +68,13 @@
 
 ### 软件的发展
 
-![&#x53D1;&#x5C55;](.gitbook/assets/image%20%28133%29.png)
+![&#x53D1;&#x5C55;](.gitbook/assets/image%20%28135%29.png)
 
 #### 软件规模越来越大
 
-![](.gitbook/assets/image%20%28151%29.png)
+![](.gitbook/assets/image%20%28154%29.png)
 
-![](.gitbook/assets/image%20%2868%29.png)
+![](.gitbook/assets/image%20%2869%29.png)
 
 ## 软件危机
 
@@ -90,11 +90,11 @@
 
 ### **软件成本日益增加**
 
-![](.gitbook/assets/image%20%2855%29.png)
+![](.gitbook/assets/image%20%2856%29.png)
 
 ### **软件技术进步  &lt;  需求增长**
 
-![](.gitbook/assets/image%20%28101%29.png)
+![](.gitbook/assets/image%20%28102%29.png)
 
 ### **产生软件危机的原因**
 
@@ -108,7 +108,7 @@
 
 ### **消除软件危机的途径 : 软件工程**
 
-![](.gitbook/assets/image%20%28108%29.png)
+![](.gitbook/assets/image%20%28109%29.png)
 
 \*\*\*\*
 
@@ -132,13 +132,13 @@
   * 过程贯穿软件开发的各个环节, 在各环节之间建立里程碑.  **管理者**在软件工程过程中对软件开发的质量, 进度, 成本进行评估, 管理和控制;  **技术人员**采用相应的方法和工具生成软件工程产品 \(模型, 文档, 数据, 报告, 表格 等\).
 * **质量焦点**
 
-![&#x8F6F;&#x4EF6;&#x5DE5;&#x7A0B;&#x5C42;&#x6B21;&#x56FE;](.gitbook/assets/image%20%28129%29.png)
+![&#x8F6F;&#x4EF6;&#x5DE5;&#x7A0B;&#x5C42;&#x6B21;&#x56FE;](.gitbook/assets/image%20%28130%29.png)
 
 ### 软件工程的发展已经历了四个重要阶段
 
 **传统软件工程  ---&gt;  对象工程  ---&gt;  过程工程   ---&gt;  构建工程**
 
-![&#x56DB;&#x4E2A;&#x9636;&#x6BB5;](.gitbook/assets/image%20%28134%29.png)
+![&#x56DB;&#x4E2A;&#x9636;&#x6BB5;](.gitbook/assets/image%20%28137%29.png)
 
 ![](.gitbook/assets/image%20%2833%29.png)
 
@@ -156,33 +156,33 @@
 
 ## 软件工程知识体系与职业道德
 
-![&#x5341;&#x4E2A;&#x77E5;&#x8BC6;&#x57DF;, &#x5206;&#x4E3A;&#x4E24;&#x7C7B;&#x8FC7;&#x7A0B;\(&#x5F00;&#x53D1;&#x548C;&#x7EF4;&#x62A4;&#x8FC7;&#x7A0B;, &#x652F;&#x6301;&#x548C;&#x7EC4;&#x7EC7;&#x8FC7;&#x7A0B;\)](.gitbook/assets/image%20%28163%29.png)
+![&#x5341;&#x4E2A;&#x77E5;&#x8BC6;&#x57DF;, &#x5206;&#x4E3A;&#x4E24;&#x7C7B;&#x8FC7;&#x7A0B;\(&#x5F00;&#x53D1;&#x548C;&#x7EF4;&#x62A4;&#x8FC7;&#x7A0B;, &#x652F;&#x6301;&#x548C;&#x7EC4;&#x7EC7;&#x8FC7;&#x7A0B;\)](.gitbook/assets/image%20%28166%29.png)
 
 ### 软件工程知识体系各主体之间的关联
 
-![&#x5173;&#x8054;](.gitbook/assets/image%20%2850%29.png)
+![&#x5173;&#x8054;](.gitbook/assets/image%20%2851%29.png)
 
 ### 软件工程是一门交叉学科
 
-![](.gitbook/assets/image%20%28168%29.png)
+![](.gitbook/assets/image%20%28171%29.png)
 
 ### **软件工程与计算机科学的区别**
 
-![](.gitbook/assets/image%20%28105%29.png)
+![](.gitbook/assets/image%20%28106%29.png)
 
-![](.gitbook/assets/image%20%28107%29.png)
+![](.gitbook/assets/image%20%28108%29.png)
 
 ### **对软件工程的误解**
 
-![&#x7BA1;&#x7406;&#x65B9;&#x7684;&#x8BEF;&#x89E3;](.gitbook/assets/image%20%2858%29.png)
+![&#x7BA1;&#x7406;&#x65B9;&#x7684;&#x8BEF;&#x89E3;](.gitbook/assets/image%20%2859%29.png)
 
-![&#x5BA2;&#x6237;&#x65B9;&#x7684;&#x8BEF;&#x89E3;](.gitbook/assets/image%20%2895%29.png)
+![&#x5BA2;&#x6237;&#x65B9;&#x7684;&#x8BEF;&#x89E3;](.gitbook/assets/image%20%2896%29.png)
 
-![&#x51C6;&#x5B88;&#x8F6F;&#x4EF6;&#x5DE5;&#x7A0B;&#x89C4;&#x8303;](.gitbook/assets/image%20%28113%29.png)
+![&#x51C6;&#x5B88;&#x8F6F;&#x4EF6;&#x5DE5;&#x7A0B;&#x89C4;&#x8303;](.gitbook/assets/image%20%28114%29.png)
 
 ### **软件工程职业道德和责任规范**
 
-![](.gitbook/assets/image%20%28173%29.png)
+![](.gitbook/assets/image%20%28176%29.png)
 
 \*\*\*\*
 
