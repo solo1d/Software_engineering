@@ -21,21 +21,21 @@
 
 **程序设计语言是 :  人与计算机通信的最基本工具.   `语法 + 语义 + 语用`**
 
-![&#x7F16;&#x7A0B;&#x8BED;&#x8A00;&#x7684;&#x9009;&#x62E9;&#x662F;&#x975E;&#x5E38;&#x91CD;&#x8981;&#x7684;](../.gitbook/assets/image%20%28177%29.png)
+![&#x7F16;&#x7A0B;&#x8BED;&#x8A00;&#x7684;&#x9009;&#x62E9;&#x662F;&#x975E;&#x5E38;&#x91CD;&#x8981;&#x7684;](../.gitbook/assets/image%20%28179%29.png)
 
 ### 特点 -- 不同的语言适用于不同的应用
 
-![&#x4E0D;&#x540C;&#x7684;&#x8BED;&#x8A00;&#x9002;&#x7528;&#x7684;&#x5E94;&#x7528;](../.gitbook/assets/image%20%2848%29.png)
+![&#x4E0D;&#x540C;&#x7684;&#x8BED;&#x8A00;&#x9002;&#x7528;&#x7684;&#x5E94;&#x7528;](../.gitbook/assets/image%20%2849%29.png)
 
 ### 特点 -- 技术方面
 
-![&#x8BED;&#x8A00;&#x53EF;&#x4EE5;&#x5904;&#x7406;&#x7684;&#x80FD;&#x529B;](../.gitbook/assets/image%20%2895%29.png)
+![&#x8BED;&#x8A00;&#x53EF;&#x4EE5;&#x5904;&#x7406;&#x7684;&#x80FD;&#x529B;](../.gitbook/assets/image%20%2896%29.png)
 
-![&#x6210;&#x5206;&#x5206;&#x7C7B;](../.gitbook/assets/image%20%2837%29.png)
+![&#x6210;&#x5206;&#x5206;&#x7C7B;](../.gitbook/assets/image%20%2838%29.png)
 
 ### 特点 -- 语言本身
 
-![&#x8BED;&#x8A00;&#x7279;&#x70B9;](../.gitbook/assets/image%20%28204%29.png)
+![&#x8BED;&#x8A00;&#x7279;&#x70B9;](../.gitbook/assets/image%20%28206%29.png)
 
 ### 特点 -- 软件工程方面
 
@@ -71,11 +71,11 @@
 
 ### 分类 -- 语言发展里程 和特点
 
-![&#x56DB;&#x4EE3;&#x8BED;&#x8A00;](../.gitbook/assets/image%20%28223%29.png)
+![&#x56DB;&#x4EE3;&#x8BED;&#x8A00;](../.gitbook/assets/image%20%28225%29.png)
 
 ### 分类 -- 选择要素
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 
 
