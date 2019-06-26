@@ -19,11 +19,11 @@
 * **GOTO语句**
   * 严格控制 GOTO 语句
 
-![&#x5C0F;&#x76EE;&#x6807;&#x79F0;&#x4E3A;&#x6A21;&#x5757;](../.gitbook/assets/image%20%28160%29.png)
+![&#x5C0F;&#x76EE;&#x6807;&#x79F0;&#x4E3A;&#x6A21;&#x5757;](../.gitbook/assets/image%20%28162%29.png)
 
 ### 自顶向下, 逐步细化 的一个例子
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28185%29.png)
 
 
 

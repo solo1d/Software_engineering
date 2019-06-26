@@ -18,6 +18,8 @@
   * [程序的效率](5/cheng-xu-de-xiao-lv.md)
   * [编码管理](5/bian-ma-guan-li.md)
 * [质量保证](6.md)
+* [软件测试策略](ruan-jian-ce-shi-ce-lve/README.md)
+  * [单元测试](ruan-jian-ce-shi-ce-lve/dan-yuan-ce-shi.md)
 * [软件维护](7.md)
 * [软件项目管理](8.md)
 * [废弃-----------软件工程](untitled.md)
