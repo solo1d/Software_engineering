@@ -20,6 +20,8 @@
 * [质量保证](6.md)
 * [软件测试策略](ruan-jian-ce-shi-ce-lve/README.md)
   * [单元测试](ruan-jian-ce-shi-ce-lve/dan-yuan-ce-shi.md)
+  * [集成测试](ruan-jian-ce-shi-ce-lve/ji-cheng-ce-shi.md)
+  * [系统测试](ruan-jian-ce-shi-ce-lve/xi-tong-ce-shi.md)
 * [软件维护](7.md)
 * [软件项目管理](8.md)
 * [废弃-----------软件工程](untitled.md)

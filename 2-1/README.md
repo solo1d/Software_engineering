@@ -37,7 +37,7 @@
 
 ### 能力成熟度模型
 
-![&#x80FD;&#x529B;&#x6210;&#x719F;&#x5EA6;&#x6A21;&#x578B;](../.gitbook/assets/image%20%2867%29.png)
+![&#x80FD;&#x529B;&#x6210;&#x719F;&#x5EA6;&#x6A21;&#x578B;](../.gitbook/assets/image%20%2869%29.png)
 
 
 
