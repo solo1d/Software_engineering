@@ -16,9 +16,9 @@
 
 ### 软件测试策略 V 模型
 
-![V&#x6A21;&#x578B;](../.gitbook/assets/image%20%2836%29.png)
+![V&#x6A21;&#x578B;](../.gitbook/assets/image%20%2843%29.png)
 
-![&#x56DB;&#x79CD;&#x6D4B;&#x8BD5;](../.gitbook/assets/image%20%28215%29.png)
+![&#x56DB;&#x79CD;&#x6D4B;&#x8BD5;](../.gitbook/assets/image%20%28257%29.png)
 
 ### 回归测试
 
@@ -54,7 +54,7 @@
 
 ### 软件测试策略基本步骤
 
-![&#x8F6F;&#x4EF6;&#x6D4B;&#x8BD5;&#x7B56;&#x7565;&#x57FA;&#x672C;&#x6B65;&#x9AA4;](../.gitbook/assets/image%20%28226%29.png)
+![&#x8F6F;&#x4EF6;&#x6D4B;&#x8BD5;&#x7B56;&#x7565;&#x57FA;&#x672C;&#x6B65;&#x9AA4;](../.gitbook/assets/image%20%28268%29.png)
 
 
 

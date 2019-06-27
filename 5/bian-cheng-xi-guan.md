@@ -4,7 +4,7 @@
 
 ### 重要性
 
-![&#x826F;&#x597D;&#x7684;&#x7F16;&#x7A0B;&#x4E60;&#x60EF;&#x91CD;&#x8981;&#x6027;](../.gitbook/assets/image%20%2813%29.png)
+![&#x826F;&#x597D;&#x7684;&#x7F16;&#x7A0B;&#x4E60;&#x60EF;&#x91CD;&#x8981;&#x6027;](../.gitbook/assets/image%20%2815%29.png)
 
 ## 结构化程序设计原则
 
@@ -19,11 +19,11 @@
 * **GOTO语句**
   * 严格控制 GOTO 语句
 
-![&#x5C0F;&#x76EE;&#x6807;&#x79F0;&#x4E3A;&#x6A21;&#x5757;](../.gitbook/assets/image%20%28164%29.png)
+![&#x5C0F;&#x76EE;&#x6807;&#x79F0;&#x4E3A;&#x6A21;&#x5757;](../.gitbook/assets/image%20%28192%29.png)
 
 ### 自顶向下, 逐步细化 的一个例子
 
-![](../.gitbook/assets/image%20%28189%29.png)
+![](../.gitbook/assets/image%20%28220%29.png)
 
 
 

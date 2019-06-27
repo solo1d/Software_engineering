@@ -52,9 +52,9 @@
 
 ### 编码策略
 
-![&#x9762;&#x5411;&#x5BF9;&#x8C61;&#x7A0B;&#x5E8F;&#x8BBE;&#x8BA1;](../.gitbook/assets/image%20%28128%29.png)
+![&#x9762;&#x5411;&#x5BF9;&#x8C61;&#x7A0B;&#x5E8F;&#x8BBE;&#x8BA1;](../.gitbook/assets/image%20%28152%29.png)
 
-![&#x5E38;&#x89C1;&#x7684;&#x56DB;&#x79CD;&#x7F16;&#x7801;&#x7B56;&#x7565;](../.gitbook/assets/image%20%2819%29.png)
+![&#x5E38;&#x89C1;&#x7684;&#x56DB;&#x79CD;&#x7F16;&#x7801;&#x7B56;&#x7565;](../.gitbook/assets/image%20%2823%29.png)
 
 ### 编码规范
 
