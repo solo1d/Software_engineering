@@ -6,17 +6,17 @@
 
 ### 瀑布模型   \(Waterfall model\)
 
-![&#x7011;&#x5E03;&#x6A21;&#x578B;](../.gitbook/assets/image%20%2881%29.png)
+![&#x7011;&#x5E03;&#x6A21;&#x578B;](../.gitbook/assets/image%20%2898%29.png)
 
 **瀑布模型也称为经典生命周期模型.**
 
-![&#x7F16;&#x7801;&#x9636;&#x6BB5;&#x548C;&#x9A71;&#x52A8;](../.gitbook/assets/image%20%2896%29.png)
+![&#x7F16;&#x7801;&#x9636;&#x6BB5;&#x548C;&#x9A71;&#x52A8;](../.gitbook/assets/image%20%28113%29.png)
 
 #### **实际\(带反馈\) 的瀑布模型**
 
 ### **瀑布模型的缺点**
 
-![&#x7011;&#x5E03;&#x6A21;&#x578B;&#x7684;&#x7F3A;&#x70B9;](../.gitbook/assets/image%20%28111%29.png)
+![&#x7011;&#x5E03;&#x6A21;&#x578B;&#x7684;&#x7F3A;&#x70B9;](../.gitbook/assets/image%20%28128%29.png)
 
 ### **瀑布模型的适用场合**
 
@@ -28,15 +28,15 @@
 
 ### V模型\(V-modele\) : 瀑布模型的变种
 
-![V&#x6A21;&#x578B;](../.gitbook/assets/image%20%28140%29.png)
+![V&#x6A21;&#x578B;](../.gitbook/assets/image%20%28164%29.png)
 
 ### V模型: 测试发现问题
 
-![&#x5355;&#x5143;&#x6D4B;&#x8BD5;&#x53D1;&#x73B0;&#x95EE;&#x9898;,  &#x7EA2;&#x8272;&#x662F;&#x9700;&#x8981;&#x4FEE;&#x6539;&#x7684;&#x90E8;&#x5206;,&#x9EC4;&#x8272;&#x662F;&#x68C0;&#x6D4B;&#x51FA;&#x9519;&#x7684;&#x90E8;&#x5206;](../.gitbook/assets/image%20%28275%29.png)
+![&#x5355;&#x5143;&#x6D4B;&#x8BD5;&#x53D1;&#x73B0;&#x95EE;&#x9898;,  &#x7EA2;&#x8272;&#x662F;&#x9700;&#x8981;&#x4FEE;&#x6539;&#x7684;&#x90E8;&#x5206;,&#x9EC4;&#x8272;&#x662F;&#x68C0;&#x6D4B;&#x51FA;&#x9519;&#x7684;&#x90E8;&#x5206;](../.gitbook/assets/image%20%28314%29.png)
 
-![&#x7CFB;&#x7EDF;&#x6D4B;&#x8BD5;&#x53D1;&#x73B0;&#x95EE;&#x9898;](../.gitbook/assets/image%20%28267%29.png)
+![&#x7CFB;&#x7EDF;&#x6D4B;&#x8BD5;&#x53D1;&#x73B0;&#x95EE;&#x9898;](../.gitbook/assets/image%20%28306%29.png)
 
-![&#x9A8C;&#x6536;&#x6D4B;&#x8BD5;&#x53D1;&#x73B0;&#x95EE;&#x9898;](../.gitbook/assets/image%20%2873%29.png)
+![&#x9A8C;&#x6536;&#x6D4B;&#x8BD5;&#x53D1;&#x73B0;&#x95EE;&#x9898;](../.gitbook/assets/image%20%2885%29.png)
 
 ## 
 

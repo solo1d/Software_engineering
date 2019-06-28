@@ -39,7 +39,7 @@
 
 ### 验收测试过程
 
-![&#x9A8C;&#x6536;&#x6D4B;&#x8BD5;&#x8FC7;&#x7A0B;](../.gitbook/assets/image%20%2837%29.png)
+![&#x9A8C;&#x6536;&#x6D4B;&#x8BD5;&#x8FC7;&#x7A0B;](../.gitbook/assets/image%20%2841%29.png)
 
 ### 验收测试形式
 
@@ -78,7 +78,7 @@
 * **缺陷度量**
 * **质量成本**
 
-![&#x5BF9;&#x6570;&#x6CCA;&#x677E;&#x6267;&#x884C;&#x65F6;&#x95F4;&#x6A21;&#x578B;&#x7684;&#x8F6F;&#x4EF6;&#x6545;&#x969C;&#x6A21;&#x578B;, &#x5C0F;&#x4E8E;&#x987A;&#x5E8F;&#x6545;&#x969C;&#x5BC6;&#x5EA6;&#x5C31;&#x53EF;&#x4EE5;&#x505C;&#x6B62;&#x6D4B;&#x8BD5;](../.gitbook/assets/image%20%28217%29.png)
+![&#x5BF9;&#x6570;&#x6CCA;&#x677E;&#x6267;&#x884C;&#x65F6;&#x95F4;&#x6A21;&#x578B;&#x7684;&#x8F6F;&#x4EF6;&#x6545;&#x969C;&#x6A21;&#x578B;, &#x5C0F;&#x4E8E;&#x987A;&#x5E8F;&#x6545;&#x969C;&#x5BC6;&#x5EA6;&#x5C31;&#x53EF;&#x4EE5;&#x505C;&#x6B62;&#x6D4B;&#x8BD5;](../.gitbook/assets/image%20%28252%29.png)
 
 
 

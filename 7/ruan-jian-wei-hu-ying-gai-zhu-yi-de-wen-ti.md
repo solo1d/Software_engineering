@@ -64,7 +64,7 @@
 
 * **IEEE 维护模型图**
 
-![IEEE &#x7EF4;&#x62A4;&#x6A21;&#x578B;&#x56FE;](../.gitbook/assets/image%20%28142%29.png)
+![IEEE &#x7EF4;&#x62A4;&#x6A21;&#x578B;&#x56FE;](../.gitbook/assets/image%20%28166%29.png)
 
 
 
